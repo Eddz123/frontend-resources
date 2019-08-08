@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/frontend-resources/static/css/main.badb1543.chunk.css",
+    "main.js": "/frontend-resources/static/js/main.128318f1.chunk.js",
+    "main.js.map": "/frontend-resources/static/js/main.128318f1.chunk.js.map",
+    "runtime~main.js": "/frontend-resources/static/js/runtime~main.b33394d5.js",
+    "runtime~main.js.map": "/frontend-resources/static/js/runtime~main.b33394d5.js.map",
+    "static/js/2.f3d17cd3.chunk.js": "/frontend-resources/static/js/2.f3d17cd3.chunk.js",
+    "static/js/2.f3d17cd3.chunk.js.map": "/frontend-resources/static/js/2.f3d17cd3.chunk.js.map",
+    "index.html": "/frontend-resources/index.html",
+    "precache-manifest.ce5b3037967e136209c8ac143532c407.js": "/frontend-resources/precache-manifest.ce5b3037967e136209c8ac143532c407.js",
+    "service-worker.js": "/frontend-resources/service-worker.js",
+    "static/css/main.badb1543.chunk.css.map": "/frontend-resources/static/css/main.badb1543.chunk.css.map",
+    "static/media/undraw-to-the-moon.png": "/frontend-resources/static/media/undraw-to-the-moon.11cde3a9.png"
+  }
+}
