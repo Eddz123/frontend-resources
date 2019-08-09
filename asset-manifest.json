@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/frontend-resources/static/css/main.6f8fa563.chunk.css",
+    "main.css": "/frontend-resources/static/css/main.5d8f4468.chunk.css",
     "main.js": "/frontend-resources/static/js/main.d554fc04.chunk.js",
     "main.js.map": "/frontend-resources/static/js/main.d554fc04.chunk.js.map",
     "runtime~main.js": "/frontend-resources/static/js/runtime~main.b33394d5.js",
@@ -8,9 +8,9 @@
     "static/js/2.63ba6858.chunk.js": "/frontend-resources/static/js/2.63ba6858.chunk.js",
     "static/js/2.63ba6858.chunk.js.map": "/frontend-resources/static/js/2.63ba6858.chunk.js.map",
     "index.html": "/frontend-resources/index.html",
-    "precache-manifest.fd0cdd86546c2c18b0bd7ed9666b6ef9.js": "/frontend-resources/precache-manifest.fd0cdd86546c2c18b0bd7ed9666b6ef9.js",
+    "precache-manifest.d7fa0375ad5f0c654c9bdd1151a1459a.js": "/frontend-resources/precache-manifest.d7fa0375ad5f0c654c9bdd1151a1459a.js",
     "service-worker.js": "/frontend-resources/service-worker.js",
-    "static/css/main.6f8fa563.chunk.css.map": "/frontend-resources/static/css/main.6f8fa563.chunk.css.map",
+    "static/css/main.5d8f4468.chunk.css.map": "/frontend-resources/static/css/main.5d8f4468.chunk.css.map",
     "static/media/undraw-to-the-moon.png": "/frontend-resources/static/media/undraw-to-the-moon.a7b4f1ec.png"
   }
 }
