@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/frontend-resources/static/css/main.c7ddc56b.chunk.css",
-    "main.js": "/frontend-resources/static/js/main.6fc019e0.chunk.js",
-    "main.js.map": "/frontend-resources/static/js/main.6fc019e0.chunk.js.map",
+    "main.js": "/frontend-resources/static/js/main.2e02ed1f.chunk.js",
+    "main.js.map": "/frontend-resources/static/js/main.2e02ed1f.chunk.js.map",
     "runtime~main.js": "/frontend-resources/static/js/runtime~main.b33394d5.js",
     "runtime~main.js.map": "/frontend-resources/static/js/runtime~main.b33394d5.js.map",
     "static/js/2.c8711636.chunk.js": "/frontend-resources/static/js/2.c8711636.chunk.js",
     "static/js/2.c8711636.chunk.js.map": "/frontend-resources/static/js/2.c8711636.chunk.js.map",
     "index.html": "/frontend-resources/index.html",
-    "precache-manifest.cdddd3134e657ddd2a7ff1078ea47b35.js": "/frontend-resources/precache-manifest.cdddd3134e657ddd2a7ff1078ea47b35.js",
+    "precache-manifest.6c94587b5f5f2ee094057147b4382d66.js": "/frontend-resources/precache-manifest.6c94587b5f5f2ee094057147b4382d66.js",
     "service-worker.js": "/frontend-resources/service-worker.js",
     "static/css/main.c7ddc56b.chunk.css.map": "/frontend-resources/static/css/main.c7ddc56b.chunk.css.map",
     "static/media/undraw-to-the-moon.png": "/frontend-resources/static/media/undraw-to-the-moon.adf4518b.png"
