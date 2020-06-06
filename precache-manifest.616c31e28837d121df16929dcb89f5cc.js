@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7097b8170c494f4928245c7a9719eaad",
+    "revision": "a4772866b7a53b0c8458d1188a87e216",
     "url": "/frontend-resources/index.html"
   },
   {
-    "revision": "c73a6e1ea8212b4b167c",
-    "url": "/frontend-resources/static/css/main.602edbf7.chunk.css"
+    "revision": "34fa4c0bb53a056e47d5",
+    "url": "/frontend-resources/static/css/main.0ad4c9f6.chunk.css"
   },
   {
     "revision": "988c79d929b426b9ba63",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/frontend-resources/static/js/2.7619fd4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c73a6e1ea8212b4b167c",
-    "url": "/frontend-resources/static/js/main.2dcd5c83.chunk.js"
+    "revision": "34fa4c0bb53a056e47d5",
+    "url": "/frontend-resources/static/js/main.d303ca5d.chunk.js"
   },
   {
     "revision": "4c3060f4d340c68e8b7f",
@@ -25,6 +25,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "adf4518bd2d137cb10deb3b563c2d6d9",
-    "url": "/frontend-resources/static/media/undraw-to-the-moon.adf4518b.png"
+    "url": "/frontend-resources/static/media/undraw-designer.adf4518b.png"
   }
 ]);
